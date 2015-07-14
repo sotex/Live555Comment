@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AlarmHandler" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAEAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\BasicTaskScheduler0.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicHashTable" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggYAAAABAAAAAANAAAAEJAAAIQgAQEAUBAAAAgEgACA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\include\BasicHashTable.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicUsageEnvironment" Collapsed="true">
+    <Position X="5.25" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAACAAAAAAAAAAAAAAAAIAgAEAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\include\BasicUsageEnvironment.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicTaskScheduler" Collapsed="true">
+    <Position X="5.25" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAjAAAABACAAABAAAAAAAAAAAAACAAAAgABAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\include\BasicUsageEnvironment.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicUsageEnvironment0" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACEAAAEAAAIAAAAAAQAAAgAAIAAAAAAQAAAAAIgAEA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\include\BasicUsageEnvironment0.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicTaskScheduler0" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QIAACQAACAAABAAAAAAgAgAABAAwAQAFBAECAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\include\BasicUsageEnvironment0.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Timeval" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAgAIAAAABQAAAAAAAAAAAAAgAAAAEQA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\include\DelayQueue.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DelayInterval" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\include\DelayQueue.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventTime" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\include\DelayQueue.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DelayQueueEntry" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAQAAAAQAAAAAAAAAABAAgIAABAAAgAAAAEAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\include\DelayQueue.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DelayQueue" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAIIAAAAABAgAAAAACAgEAAAQAAAAAAAAJA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\include\DelayQueue.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HandlerDescriptor" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAABAAAAAAAAIACAAAAAAACACIAAAABAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\include\HandlerSet.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HandlerSet" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAgAAAAAAAAAAAAABAAAAAAAQAAEAAAAQAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\include\HandlerSet.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HandlerIterator" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEgAAAAAAAAAAAAAAAAAAAAEAABAABAAIAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\include\HandlerSet.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="time_base_seconds" Collapsed="true">
+    <Position X="8" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\BasicUsageEnvironment\include\DelayQueue.hh</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

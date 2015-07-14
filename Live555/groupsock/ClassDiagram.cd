@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Scope" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAEACAABAgAEABAAAAAAAAEAABgAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\GroupEId.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupEId" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAABAAAAAASQgAEABQAAAAAIAAAAAAAkAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\GroupEId.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OutputSocket" Collapsed="true">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAEAABAAAAAAACAAAAAAAAAAAAAAAQgAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\Groupsock.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="destRecord" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQIAAAAAAAAAAAAAAAAAAAAACAAAAAAAEACA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\Groupsock.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Groupsock" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIEAAkAAAQKABAQCAYAEMgACAAAAIQFADAAIACAABA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\Groupsock.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupsockLookupTable" Collapsed="true">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAEAJAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\Groupsock.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NoReuse" Collapsed="true">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAACAAAAACAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\GroupsockHelper.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetAddress" Collapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAEAAAAAMAAAAAAAAAAAAAAAAJwAAAIAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetAddress.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetAddressList" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAABBAAAAEAAAAAAAAAACAAAAAAAAAAABggAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetAddress.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Port" Collapsed="true">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAQAAABAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetAddress.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddressPortLookupTable" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAEAAAAJAAABAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetAddress.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddressString" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAIBAAAAAAAAAAAAABAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetAddress.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetInterface" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetInterface.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DirectedNetInterface" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACQAAAAAAAAg=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetInterface.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DirectedNetInterfaceSet" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAAAAAAAAAAACAAABAAEBAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetInterface.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socket" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAECAAAAAAAgIAAAAAAAAAAAASgAAAAAAAAEAAE=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetInterface.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SocketLookupTable" Collapsed="true">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAEABgAABAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetInterface.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetInterfaceTrafficStats" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAARAAAAAAAAAAAAAAAAEAQAAAAAABAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetInterface.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TunnelEncapsulationTrailer" Collapsed="true">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAACAAAAAAAAAAAAAAQYAAAgGAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\TunnelEncaps.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ip_mreq_source" Collapsed="true">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_groupsockPriv" Collapsed="true">
+    <Position X="9" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\GroupsockHelper.hh</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="netAddressBits" Collapsed="true">
+    <Position X="6.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetAddress.hh</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="portNumBits" Collapsed="true">
+    <Position X="6.25" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetAddress.hh</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="int64_t" Collapsed="true">
+    <Position X="9" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetCommon.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="u_int64_t" Collapsed="true">
+    <Position X="12.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetCommon.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="u_int32_t" Collapsed="true">
+    <Position X="6.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetCommon.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="u_int16_t" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetCommon.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="u_int8_t" Collapsed="true">
+    <Position X="14.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\NetCommon.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uintptr_t" Collapsed="true">
+    <Position X="9" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>d:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="intptr_t" Collapsed="true">
+    <Position X="10.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>d:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Cookie" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\groupsock\include\TunnelEncaps.hh</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

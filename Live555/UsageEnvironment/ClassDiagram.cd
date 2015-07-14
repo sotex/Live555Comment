@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UsageEnvironment">
+    <Position X="0.5" Y="0.5" Width="4" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Typedef Name="UsageEnvironment::MsgString" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>D:\work\live555sourcecontrol\UsageEnvironment\include\UsageEnvironment.hh</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAgAACAAAQQAAAAgABSAAAAAIIIAAAAAAAAAAAIgAUA=</HashCode>
+      <FileName>D:\work\live555sourcecontrol\UsageEnvironment\include\UsageEnvironment.hh</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
